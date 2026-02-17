@@ -641,7 +641,7 @@
     "breadcrumb": "Quy trình",
     "overview": {
       "title": "Tổng Quan Quy Trình",
-      "desc": "Quốc Khánh Uniform tuân thủ quy trình sản xuất đồng phục chuyên nghiệp, đảm bảo chất lượng sản phẩm và tiến độ giao hàng. Quy trình của chúng tôi gồm 7 bước chính, từ tiếp nhận yêu cầu đến giao hàng và bảo hành sau bán."
+      "desc": "Thanh Mich IMEX tuân thủ quy trình xuất nhập khẩu và bán buôn nội thất chuyên nghiệp, đảm bảo chất lượng sản phẩm và tiến độ giao hàng. Quy trình của chúng tôi gồm các bước chính: tiếp nhận yêu cầu, báo giá, thủ tục hải quan, vận chuyển và giao hàng."
     },
     "step1": {
       "title": "Tiếp Nhận Yêu Cầu & Tư Vấn",
@@ -858,16 +858,16 @@
       "title": "Bắt Đầu Dự Án Của Bạn Ngay Hôm Nay",
       "desc": "Liên hệ với chúng tôi để được tư vấn và nhận báo giá chi tiết",
       "contact": "Liên hệ ngay",
-      "call": "Gọi: 0366 333 168"
+      "call": "Gọi: 0857 281 982"
     }
   },
   "portfolio": {
     "pageTitle": "Dự Án & Khách Hàng Tiêu Biểu",
-    "pageSubtitle": "Hơn 500 dự án đồng phục đã hoàn thành thành công",
+    "pageSubtitle": "Nhiều dự án xuất nhập khẩu và nội thất đã hoàn thành thành công",
     "breadcrumb": "Dự án",
     "overview": {
       "title": "Tổng Quan Dự Án",
-      "desc": "Với hơn 5 năm kinh nghiệm trong ngành may đồng phục, Quốc Khánh Uniform đã hoàn thành thành công hơn 500 dự án lớn nhỏ cho các doanh nghiệp, trường học, tổ chức trên khắp cả nước. Chúng tôi tự hào được đồng hành cùng hàng trăm khách hàng tin tưởng."
+      "desc": "Với hơn 5 năm kinh nghiệm trong lĩnh vực xuất nhập khẩu và bán buôn nội thất, Thanh Mich IMEX đã hoàn thành thành công nhiều dự án lớn nhỏ cho các doanh nghiệp và khách hàng trên khắp cả nước. Chúng tôi tự hào được đồng hành cùng nhiều đối tác tin tưởng."
     },
     "achievements": {
       "title": "Thành Tích",
@@ -882,64 +882,64 @@
       "title": "Dự Án Tiêu Biểu",
       "items": [
         {
-          "title": "Đồng Phục Công Ty Tài Chính",
+          "title": "Nội Thất Văn Phòng Công Ty Tài Chính",
           "type": "Loại:",
-          "typeValue": "Đồng phục công ty",
+          "typeValue": "Bàn ghế văn phòng",
           "quantity": "Số lượng:",
           "quantityValue": "500 bộ",
           "time": "Thời gian:",
           "timeValue": "2024",
-          "desc": "Thiết kế đồng phục văn phòng hiện đại cho công ty tài chính với áo sơ mi và vest cao cấp. Logo công ty được thêu tinh tế trên áo."
+          "desc": "Cung cấp bàn ghế văn phòng, tủ hồ sơ cho công ty tài chính. Nội thất nhập khẩu chất lượng cao, thiết kế chuyên nghiệp."
         },
         {
-          "title": "Đồng Phục Trường THCS Phúc Lợi",
+          "title": "Nội Thất Trường Học",
           "type": "Loại:",
-          "typeValue": "Đồng phục học sinh",
+          "typeValue": "Bàn ghế học sinh",
           "quantity": "Số lượng:",
           "quantityValue": "1.200 bộ",
           "time": "Thời gian:",
           "timeValue": "2024",
-          "desc": "Sản xuất đồng phục học sinh cho toàn bộ học sinh trường THCS Phúc Lợi. Áo sơ mi trắng và quần/váy xanh navy theo chuẩn Bộ Giáo dục."
+          "desc": "Bán buôn bàn ghế học sinh, tủ đồ dùng cho trường học. Sản phẩm đạt tiêu chuẩn, an toàn và bền đẹp."
         },
         {
-          "title": "Đồng Phục Bảo Hộ Công Ty Xây Dựng",
+          "title": "Nội Thất Công Ty Xây Dựng",
           "type": "Loại:",
-          "typeValue": "Đồng phục bảo hộ",
+          "typeValue": "Bàn ghế văn phòng",
           "quantity": "Số lượng:",
           "quantityValue": "800 bộ",
           "time": "Thời gian:",
           "timeValue": "2024",
-          "desc": "Đồng phục bảo hộ lao động chống cháy, có dải phản quang cho công nhân xây dựng. Đạt tiêu chuẩn an toàn lao động."
+          "desc": "Cung cấp nội thất văn phòng cho công ty xây dựng. Bàn làm việc, tủ kệ, ghế họp chất lượng cao."
         },
         {
-          "title": "Đồng Phục Nhà Hàng Đẳng Cấp",
+          "title": "Nội Thất Nhà Hàng",
           "type": "Loại:",
-          "typeValue": "Đồng phục nhà hàng - KS",
+          "typeValue": "Bàn ghế nhà hàng - KS",
           "quantity": "Số lượng:",
           "quantityValue": "150 bộ",
           "time": "Thời gian:",
           "timeValue": "2024",
-          "desc": "Thiết kế và may đồng phục sang trọng cho nhà hàng cao cấp. Bao gồm đồng phục lễ tân, phục vụ và đầu bếp."
+          "desc": "Cung cấp bàn ghế, tủ kệ cho nhà hàng cao cấp. Thiết kế sang trọng, chất liệu bền đẹp."
         },
         {
-          "title": "Đồng Phục Công Ty Công Nghệ",
+          "title": "Nội Thất Công Ty Công Nghệ",
           "type": "Loại:",
-          "typeValue": "Đồng phục công ty",
+          "typeValue": "Bàn ghế văn phòng",
           "quantity": "Số lượng:",
           "quantityValue": "300 bộ",
           "time": "Thời gian:",
           "timeValue": "2023",
-          "desc": "Đồng phục công ty phong cách trẻ trung, hiện đại cho công ty công nghệ. Áo polo và áo khoác nhẹ có in logo công ty."
+          "desc": "Nội thất văn phòng phong cách hiện đại cho công ty công nghệ. Bàn standing, ghế ergonomic, tủ locker."
         },
         {
-          "title": "Đồng Phục Trường Tiểu Học Hoa Sen",
+          "title": "Nội Thất Trường Tiểu Học",
           "type": "Loại:",
-          "typeValue": "Đồng phục học sinh",
+          "typeValue": "Bàn ghế học sinh",
           "quantity": "Số lượng:",
           "quantityValue": "800 bộ",
           "time": "Thời gian:",
           "timeValue": "2023",
-          "desc": "Đồng phục học sinh tiểu học với thiết kế dễ thương, màu sắc tươi sáng. Chất liệu vải cotton mềm mại, an toàn cho trẻ em."
+          "desc": "Bàn ghế học sinh tiểu học thiết kế an toàn, phù hợp lứa tuổi. Chất liệu bền, dễ bảo trì."
         }
       ]
     },
@@ -1007,19 +1007,19 @@
       "items": [
         {
           "author": "Chị Nguyễn Thị Lan - Giám đốc Công ty Tài Chính",
-          "text": "Quốc Khánh Uniform đã tạo ra bộ đồng phục tuyệt vời cho công ty chúng tôi. Chất lượng sản phẩm vượt mong đợi, giao hàng đúng hẹn và giá cả hợp lý. Chúng tôi sẽ tiếp tục hợp tác trong tương lai."
+          "text": "Thanh Mich IMEX đã cung cấp nội thất chất lượng cao cho công ty chúng tôi. Sản phẩm vượt mong đợi, giao hàng đúng hẹn và giá cả hợp lý. Chúng tôi sẽ tiếp tục hợp tác trong tương lai."
         },
         {
-          "author": "Thầy Trần Văn Bình - Hiệu trưởng THCS Phúc Lợi",
-          "text": "Đồng phục học sinh của Quốc Khánh Uniform rất đẹp và bền. Phụ huynh và học sinh đều hài lòng. Dịch vụ tư vấn chuyên nghiệp, hỗ trợ tận tâm."
+          "author": "Anh Trần Văn Bình - Giám đốc Công ty Nội thất",
+          "text": "Dịch vụ xuất nhập khẩu của Thanh Mich IMEX rất chuyên nghiệp. Thủ tục nhanh gọn, hàng hóa đảm bảo chất lượng. Chúng tôi hài lòng và sẽ hợp tác lâu dài."
         },
         {
-          "author": "Anh Lê Văn Cường - Giám đốc Công ty Xây Dựng",
-          "text": "Đồng phục bảo hộ của Quốc Khánh Uniform đạt tiêu chuẩn an toàn, chất lượng tốt. Công nhân cảm thấy thoải mái khi làm việc. Rất hài lòng với dịch vụ."
+          "author": "Chị Lê Thị Cường - Chủ cửa hàng nội thất",
+          "text": "Bán buôn nội thất từ Thanh Mich IMEX đa dạng mẫu mã, chất lượng tốt. Giá cả cạnh tranh, giao hàng đúng tiến độ. Rất hài lòng với dịch vụ."
         },
         {
-          "author": "Chị Phạm Thị Dung - Quản lý Nhà hàng Đẳng Cấp",
-          "text": "Đồng phục nhà hàng của Quốc Khánh Uniform rất sang trọng và chuyên nghiệp. Thiết kế đẹp, chất liệu tốt. Khách hàng đánh giá cao về hình ảnh đội ngũ nhân viên."
+          "author": "Anh Phạm Văn Dũng - Giám đốc Công ty Xây dựng",
+          "text": "Thanh Mich IMEX cung cấp bàn ghế, tủ kệ chất lượng cho dự án của chúng tôi. Thiết kế đẹp, giá tốt. Khách hàng đánh giá cao về sản phẩm và dịch vụ."
         }
       ]
     },
@@ -1027,84 +1027,84 @@
       "title": "Bạn Muốn Trở Thành Khách Hàng Tiếp Theo?",
       "desc": "Liên hệ với chúng tôi để được tư vấn và nhận báo giá chi tiết",
       "contact": "Liên hệ ngay",
-      "call": "Gọi: 0366 333 168"
+      "call": "Gọi: 0857 281 982"
     }
   },
   "news": {
     "pageTitle": "Tin Tức & Blog",
-    "pageSubtitle": "Cập nhật xu hướng và kinh nghiệm trong ngành may mặc",
+    "pageSubtitle": "Cập nhật xu hướng và kinh nghiệm trong ngành xuất nhập khẩu và nội thất",
     "breadcrumb": "Tin tức",
     "articles": [
       {
-        "title": "Ra Mắt Ứng Dụng QK Uniform Trên Google Play Store",
+        "title": "Thanh Mich IMEX - Đối Tác Tin Cậy Trong Xuất Nhập Khẩu Nội Thất",
         "meta": "01/12/2024 | 3,456 lượt xem",
-        "desc": "Quốc Khánh Uniform tự hào ra mắt ứng dụng di động chính thức trên Google Play Store. Ứng dụng giúp khách hàng dễ dàng tìm hiểu thông tin công ty, dịch vụ, tin tức và liên hệ với chúng tôi mọi lúc mọi nơi...",
-        "readMore": "Tải ứng dụng ngay →"
+        "desc": "Thanh Mich IMEX chuyên dịch vụ xuất nhập khẩu và bán buôn nội thất. Chúng tôi hỗ trợ thủ tục hải quan, vận chuyển quốc tế và cung cấp giường, tủ, bàn ghế chất lượng cao với giá cả cạnh tranh...",
+        "readMore": "Đọc thêm →"
       },
       {
-        "title": "Ứng Dụng QK Uniform - Tìm Hiểu Thông Tin Công Ty Mọi Lúc Mọi Nơi",
+        "title": "Xu Hướng Nội Thất 2024: Hiện Đại & Bền Vững",
         "meta": "28/11/2024 | 2,789 lượt xem",
-        "desc": "Với ứng dụng QK Uniform, khách hàng có thể xem thông tin công ty, dịch vụ sản xuất đồng phục, và các tin tức mới nhất ngay trên điện thoại. Giao diện thân thiện, dễ sử dụng, tải miễn phí trên Google Play...",
-        "readMore": "Tải ứng dụng ngay →"
+        "desc": "Thị trường nội thất năm 2024 tập trung vào thiết kế hiện đại, chất liệu bền vững. Bán buôn nội thất từ nguồn uy tín giúp doanh nghiệp có lợi thế cạnh tranh và đáp ứng nhu cầu khách hàng...",
+        "readMore": "Đọc thêm →"
       },
       {
-        "title": "Tính Năng Nổi Bật Của Ứng Dụng QK Uniform: Giới Thiệu, Liên Hệ & Tin Tức",
+        "title": "Hướng Dẫn Thủ Tục Xuất Nhập Khẩu Nội Thất",
         "meta": "25/11/2024 | 2,123 lượt xem",
-        "desc": "Ứng dụng QK Uniform cung cấp đầy đủ thông tin về công ty, dịch vụ sản xuất đồng phục, form liên hệ trực tiếp và các tin tức mới nhất. Người dùng có thể xem thông tin trực tiếp trên app một cách tiện lợi...",
-        "readMore": "Tải ứng dụng ngay →"
+        "desc": "Bài viết cung cấp thông tin về thủ tục hải quan, chứng từ cần thiết khi xuất nhập khẩu đồ nội thất. Thanh Mich IMEX hỗ trợ khách hàng hoàn thiện thủ tục nhanh chóng, chính xác...",
+        "readMore": "Đọc thêm →"
       },
       {
-        "title": "Xu Hướng Đồng Phục Công Ty 2024: Thời Trang & Chuyên Nghiệp",
+        "title": "Xu Hướng Nội Thất Văn Phòng 2024: Gọn Gàng & Chuyên Nghiệp",
         "meta": "15/12/2024 | 1,234 lượt xem",
-        "desc": "Đồng phục công ty không chỉ là trang phục làm việc mà còn là biểu tượng văn hóa doanh nghiệp. Năm 2024, xu hướng đồng phục công ty tập trung vào sự kết hợp giữa tính thời trang và chuyên nghiệp...",
+        "desc": "Nội thất văn phòng không chỉ là bàn ghế mà còn góp phần tạo môi trường làm việc hiệu quả. Năm 2024, xu hướng tập trung vào thiết kế gọn gàng, tiện dụng và chuyên nghiệp...",
         "readMore": "Đọc thêm →"
       },
       {
-        "title": "Hướng Dẫn Chọn Chất Liệu Vải Phù Hợp Cho Đồng Phục",
+        "title": "Hướng Dẫn Chọn Chất Liệu Gỗ Phù Hợp Cho Nội Thất",
         "meta": "10/12/2024 | 2,156 lượt xem",
-        "desc": "Việc chọn chất liệu vải phù hợp rất quan trọng khi may đồng phục. Bài viết này sẽ giúp bạn hiểu rõ các loại vải phổ biến như cotton, polyester, kaki và cách chọn vải phù hợp với từng loại đồng phục...",
+        "desc": "Việc chọn chất liệu gỗ phù hợp rất quan trọng khi mua sắm nội thất. Bài viết giúp bạn hiểu rõ các loại gỗ phổ biến như gỗ sồi, gỗ óc chó, gỗ công nghiệp và cách chọn phù hợp với nhu cầu...",
         "readMore": "Đọc thêm →"
       },
       {
-        "title": "Tiêu Chuẩn Đồng Phục Học Sinh Theo Bộ Giáo Dục Và Đào Tạo",
+        "title": "Tiêu Chuẩn Chất Lượng Nội Thất Nhập Khẩu",
         "meta": "05/12/2024 | 1,890 lượt xem",
-        "desc": "Bộ Giáo dục và Đào tạo đã ban hành các quy định về đồng phục học sinh. Các trường học cần tuân thủ các tiêu chuẩn về màu sắc, kiểu dáng, chất liệu để đảm bảo tính thống nhất và an toàn...",
+        "desc": "Hàng nhập khẩu cần đảm bảo tiêu chuẩn chất lượng, nguồn gốc xuất xứ. Bài viết giới thiệu các tiêu chuẩn và quy định khi nhập khẩu nội thất vào Việt Nam...",
         "readMore": "Đọc thêm →"
       },
       {
-        "title": "Đồng Phục Bảo Hộ Lao Động: Tiêu Chuẩn An Toàn Và Chất Lượng",
+        "title": "Vận Chuyển Quốc Tế Nội Thất: Đường Biển Và Đường Hàng Không",
         "meta": "01/12/2024 | 1,567 lượt xem",
-        "desc": "Đồng phục bảo hộ lao động đóng vai trò quan trọng trong việc đảm bảo an toàn cho người lao động. Bài viết giải thích các tiêu chuẩn an toàn TCVN, ISO và cách chọn đồng phục bảo hộ phù hợp...",
+        "desc": "Vận chuyển nội thất quốc tế cần lưu ý đóng gói, bảo hiểm và thủ tục. Bài viết so sánh vận chuyển đường biển và đường hàng không, giúp khách hàng chọn phương án phù hợp...",
         "readMore": "Đọc thêm →"
       },
       {
-        "title": "Cách Bảo Quản Đồng Phục Để Giữ Màu Sắc Và Độ Bền",
+        "title": "Cách Bảo Quản Nội Thất Gỗ Để Bền Đẹp Theo Thời Gian",
         "meta": "25/11/2024 | 2,345 lượt xem",
-        "desc": "Bảo quản đồng phục đúng cách giúp kéo dài tuổi thọ và giữ được màu sắc, form dáng. Chúng tôi chia sẻ các mẹo giặt, ủi và bảo quản đồng phục theo từng loại chất liệu vải...",
+        "desc": "Bảo quản nội thất gỗ đúng cách giúp kéo dài tuổi thọ và giữ được vẻ đẹp. Chúng tôi chia sẻ các mẹo vệ sinh, chống ẩm mốc và bảo dưỡng nội thất theo từng chất liệu...",
         "readMore": "Đọc thêm →"
       },
       {
-        "title": "Thiết Kế Logo Trên Đồng Phục: In Hay Thêu?",
+        "title": "Chọn Nội Thất Văn Phòng: Thiết Kế Và Chất Lượng",
         "meta": "20/11/2024 | 1,678 lượt xem",
-        "desc": "Logo trên đồng phục có thể được in hoặc thêu. Mỗi phương pháp có ưu nhược điểm riêng. Bài viết so sánh chi tiết giữa in và thêu logo để giúp bạn chọn phương pháp phù hợp nhất...",
+        "desc": "Nội thất văn phòng ảnh hưởng đến hiệu quả làm việc. Bài viết gợi ý cách chọn bàn ghế, tủ kệ phù hợp không gian và ngân sách, đảm bảo chất lượng và thẩm mỹ...",
         "readMore": "Đọc thêm →"
       },
       {
-        "title": "Xu Hướng Thời Trang Đồng Phục 2024: Từ Truyền Thống Đến Hiện Đại",
+        "title": "Xu Hướng Nội Thất 2024: Từ Truyền Thống Đến Hiện Đại",
         "meta": "15/11/2024 | 1,456 lượt xem",
-        "desc": "Ngành may mặc đang chứng kiến sự thay đổi trong xu hướng thiết kế đồng phục. Năm 2024, các mẫu đồng phục kết hợp giữa tính truyền thống và hiện đại, tạo nên phong cách độc đáo...",
+        "desc": "Thị trường nội thất đang chứng kiến sự kết hợp giữa phong cách truyền thống và hiện đại. Năm 2024, xu hướng tập trung vào gỗ tự nhiên, thiết kế tối giản và bền vững...",
         "readMore": "Đọc thêm →"
       },
       {
-        "title": "Hướng Dẫn Đo Size Đồng Phục Chính Xác",
+        "title": "Hướng Dẫn Đo Đạc Và Chọn Kích Thước Nội Thất",
         "meta": "10/11/2024 | 2,012 lượt xem",
-        "desc": "Đo size đồng phục chính xác là bước quan trọng để có sản phẩm vừa vặn. Chúng tôi hướng dẫn chi tiết cách đo các số đo cần thiết như vòng ngực, vòng eo, chiều dài áo, quần...",
+        "desc": "Chọn kích thước nội thất phù hợp không gian là bước quan trọng. Chúng tôi hướng dẫn cách đo đạc phòng, tính toán diện tích và chọn kích thước bàn, tủ, giường phù hợp...",
         "readMore": "Đọc thêm →"
       },
       {
-        "title": "Công Nghệ May Hiện Đại: Từ Thủ Công Đến Tự Động Hóa",
+        "title": "Logistics Xuất Nhập Khẩu: Từ Đặt Hàng Đến Giao Tận Tay",
         "meta": "05/11/2024 | 1,789 lượt xem",
-        "desc": "Ngành may mặc đang chuyển đổi sang tự động hóa và công nghệ số. Máy may công nghiệp hiện đại, phần mềm thiết kế 3D, robot cắt vải... đang thay đổi cách sản xuất đồng phục...",
+        "desc": "Ngành xuất nhập khẩu đang ứng dụng công nghệ quản lý chuỗi cung ứng. Bài viết giới thiệu quy trình từ đặt hàng, thủ tục hải quan đến vận chuyển và giao hàng nội thất...",
         "readMore": "Đọc thêm →"
       }
     ]
@@ -1120,6 +1120,7 @@
         "nameEn": "Tên công ty (Tiếng Anh):",
         "abbreviation": "Tên viết tắt:",
         "taxId": "Mã số thuế (MST):",
+        "representative": "Người đại diện pháp luật:",
         "activityDate": "Ngày hoạt động:",
         "status": "Tình trạng doanh nghiệp:",
         "managedBy": "Quản lý bởi:",

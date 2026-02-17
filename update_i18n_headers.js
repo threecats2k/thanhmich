@@ -17,7 +17,7 @@ const htmlFiles = [
 
 // Common header pattern with i18n
 const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
-    <link rel="canonical" href="https://uniform-quockhanh.store/">
+    <link rel="canonical" href="https://thanhmichltd.store/">
     <script src="js/i18n.js" defer></script>
 </head>
 <body>
@@ -26,11 +26,11 @@ const headerTemplate = `    <link rel="stylesheet" href="css/styles.css">
         <div class="container">
             <div class="header-top">
                 <div class="logo">
-                    <h1 data-i18n="common.logo">QUỐC KHÁNH UNIFORM</h1>
+                    <h1 data-i18n="common.logo">THANH MICH IMEX</h1>
                     <p class="tagline" data-i18n="common.tagline">Chất lượng - Uy tín - Chuyên nghiệp</p>
                 </div>
                 <div class="header-contact">
-                    <a href="tel:0366333168" class="phone-link">📞 <span data-i18n="common.phone">0366 333 168</span></a>
+                    <a href="tel:0857281982" class="phone-link">📞 <span data-i18n="common.phone">0857 281 982</span></a>
                     <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
                 </div>
             </div>

@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://uniform-quockhanh.store/sitemap.xml
+Sitemap: https://thanhmichltd.store/sitemap.xml
 
 # Disallow admin or private directories (if any)
 # Disallow: /admin/

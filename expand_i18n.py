@@ -103,7 +103,7 @@ def expand_vi_json():
     vi_data['policies']['ctaTitle'] = 'Bạn Có Câu Hỏi Về Chính Sách?'
     vi_data['policies']['ctaDesc'] = 'Liên hệ với chúng tôi để được giải đáp thắc mắc'
     vi_data['policies']['ctaContact'] = 'Liên hệ ngay'
-    vi_data['policies']['ctaCall'] = 'Gọi: 0366 333 168'
+    vi_data['policies']['ctaCall'] = 'Gọi: 0857 281 982'
     
     # Save
     with open(vi_file, 'w', encoding='utf-8') as f:
