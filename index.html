@@ -1,93 +1,133 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#1e3a5f">
+    <meta name="theme-color" content="#15171b">
     <meta name="format-detection" content="telephone=yes">
-    <title>Thanh Mich IMEX - Công Ty Xuất Nhập Khẩu Và Thương Mại Chuyên Nghiệp</title>
-    <meta name="description" content="Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu, bán buôn nội thất và đồ dùng gia đình chất lượng cao">
-    
+    <title>Thanh Mich Studio - Mobile Apps for Android</title>
+    <meta name="description" content="Thanh Mich Studio builds fast, focused mobile apps for Android, starting with Classic GBA Emulator: Old Play on Google Play.">
+
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
     <link rel="shortcut icon" type="image/svg+xml" href="images/favicon.svg">
     <link rel="apple-touch-icon" href="images/favicon.svg">
-    
+
     <link rel="stylesheet" href="css/styles.css">
-    <script src="js/i18n.js" defer></script>
 </head>
 <body>
     <!-- Header -->
     <header class="header">
-        <div class="container">
-            <div class="header-top">
-                <div class="logo">
-                    <a href="index.html" style="display: inline-block;">
-                        <img src="images/logo.svg" alt="THANH MICH IMEX" style="max-height: 80px; width: auto;">
-                    </a>
-                </div>
-                <div class="header-contact">
-                    <a href="tel:0857281982" class="phone-link">📞 <span data-i18n="common.phone">0857 281 982</span></a>
-                    <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
-                </div>
+        <div class="container header-top">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/logo.svg" alt="Thanh Mich Studio">
+                </a>
             </div>
             <nav class="navbar">
                 <ul class="nav-menu">
-                    <li><a href="index.html" class="active" data-i18n="common.nav.home">Trang chủ</a></li>
-                    <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
-                    <li><a href="services.html" data-i18n="common.nav.services">Dịch vụ</a></li>
-                    <li><a href="policies.html" data-i18n="common.nav.policies">Chính sách</a></li>
-                    <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="apps.html">Apps</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
                 </ul>
-                <button class="mobile-menu-toggle" aria-label="Toggle menu" data-i18n-aria-label="common.nav.menu">☰</button>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu">&#9776;</button>
             </nav>
+            <div class="header-contact">
+                <a href="contact.html" class="btn btn-primary">Get in touch</a>
+            </div>
         </div>
     </header>
 
     <!-- Hero Section -->
     <section class="hero">
-        <div class="hero-overlay"></div>
+        <div class="mesh-bg"></div>
         <div class="container">
             <div class="hero-content">
-                <h1 data-i18n="index.hero.title">Chuyên Gia Xuất Nhập Khẩu Và Thương Mại</h1>
-                <p class="hero-subtitle" data-i18n="index.hero.subtitle">Dịch vụ xuất nhập khẩu chuyên nghiệp, bán buôn nội thất và đồ dùng gia đình chất lượng cao với tiêu chuẩn quốc tế</p>
+                <h1>Retro games,<br>reborn <span class="accent-word">on Android.</span></h1>
+                <p class="hero-subtitle">We build fast, faithful emulators and mobile apps that bring classic gaming back to your pocket.</p>
                 <div class="hero-buttons">
-                    <a href="services.html" class="btn btn-large btn-primary" data-i18n="index.hero.viewServices">Xem dịch vụ</a>
-                    <a href="contact.html" class="btn btn-large btn-secondary" data-i18n="index.hero.getQuote">Liên hệ ngay</a>
+                    <a href="https://play.google.com/store/apps/details?id=com.oldplay.gba.emulator.retro.games" class="btn btn-large btn-accent" target="_blank" rel="noopener">Get on Google Play</a>
+                    <a href="#how-we-work" class="btn btn-large btn-secondary">How we work</a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <span class="float-chip float-chip--1" aria-hidden="true">&#127918;</span>
+                <span class="float-chip float-chip--2" aria-hidden="true">&#9889;</span>
+                <span class="float-chip float-chip--3" aria-hidden="true">&#11088;</span>
+                <span class="float-chip float-chip--4" aria-hidden="true">&#128241;</span>
+                <div class="hero-tilt" id="heroTilt">
+                    <div class="hero-visual-card">
+                        <div class="hero-visual-card-screen">
+                            <img src="images/apps/classic-gba-emulator.png" alt="Classic GBA Emulator: Old Play icon">
+                            <div>
+                                <h3>Classic GBA Emulator: Old Play</h3>
+                                <p>A smooth, no-lag way to relive 8-bit, 16-bit and 32-bit classics.</p>
+                            </div>
+                            <span class="store-badge">Available on Google Play</span>
+                        </div>
+                    </div>
+                </div>
+                <span class="hero-visual-tag">&#128736; Built for Android</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured App -->
+    <section class="apps-overview section bg-light">
+        <div class="container">
+            <div class="section-head">
+                <div>
+                    <h2 class="section-title">What we've shipped</h2>
+                    <p class="section-subtitle">One app today, built the way we build everything: lightweight, precise and made for real players.</p>
+                </div>
+                <a href="apps.html" class="btn btn-secondary">View all apps</a>
+            </div>
+            <div class="apps-grid">
+                <div class="app-card reveal">
+                    <div class="app-card-icon-plate">
+                        <img src="images/apps/classic-gba-emulator.png" alt="Classic GBA Emulator: Old Play icon">
+                    </div>
+                    <div class="app-card-body">
+                        <h3>Classic GBA Emulator: Old Play</h3>
+                        <p>Precise on-screen controls, sharp visuals and a lag-free interface built for Android gamers who grew up on handheld classics.</p>
+                        <a href="https://play.google.com/store/apps/details?id=com.oldplay.gba.emulator.retro.games" class="app-card-link" target="_blank" rel="noopener">View on Google Play &rarr;</a>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Services Overview -->
-    <section class="services-overview section">
+    <!-- How we work -->
+    <section id="how-we-work" class="process section">
         <div class="container">
-            <h2 class="section-title" data-i18n="index.services.title">Dịch Vụ Chính</h2>
-            <p class="section-subtitle" data-i18n="index.services.subtitle">Chúng tôi cung cấp đầy đủ các giải pháp xuất nhập khẩu và thương mại</p>
-            <div class="services-grid">
-                <div class="service-card">
-                    <div class="service-icon">🌍</div>
-                    <h3 data-i18n="index.services.import.title">Dịch Vụ Xuất Nhập Khẩu</h3>
-                    <p data-i18n="index.services.import.desc">Dịch vụ xuất nhập khẩu chuyên nghiệp, hỗ trợ thủ tục hải quan, vận chuyển quốc tế</p>
-                    <a href="services.html#import" class="service-link" data-i18n="index.services.import.detail">Chi tiết →</a>
+            <h2 class="section-title">How we build</h2>
+            <p class="section-subtitle">A streamlined process that takes an app from idea to a polished Play Store release.</p>
+            <div class="process-steps">
+                <div class="step-item reveal">
+                    <div class="step-icon">1</div>
+                    <h3>Discovery</h3>
+                    <p>Understanding the players and the problem worth solving.</p>
                 </div>
-                <div class="service-card">
-                    <div class="service-icon">🪑</div>
-                    <h3 data-i18n="index.services.furniture.title">Bán Buôn Nội Thất</h3>
-                    <p data-i18n="index.services.furniture.desc">Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất chất lượng cao, giá cả cạnh tranh</p>
-                    <a href="services.html#furniture" class="service-link" data-i18n="index.services.furniture.detail">Chi tiết →</a>
+                <div class="step-item reveal">
+                    <div class="step-icon">2</div>
+                    <h3>Design</h3>
+                    <p>Interfaces that stay out of the way of the experience.</p>
                 </div>
-                <div class="service-card">
-                    <div class="service-icon">📦</div>
-                    <h3 data-i18n="index.services.trading.title">Dịch Vụ Thương Mại</h3>
-                    <p data-i18n="index.services.trading.desc">Dịch vụ thương mại toàn diện, hỗ trợ tìm nguồn hàng, đàm phán và ký kết hợp đồng</p>
-                    <a href="services.html#trading" class="service-link" data-i18n="index.services.trading.detail">Chi tiết →</a>
+                <div class="step-item reveal">
+                    <div class="step-icon">3</div>
+                    <h3>Development</h3>
+                    <p>Lightweight, performance-first Android engineering.</p>
                 </div>
-                <div class="service-card">
-                    <div class="service-icon">🤝</div>
-                    <h3 data-i18n="index.services.consulting.title">Tư Vấn Kinh Doanh</h3>
-                    <p data-i18n="index.services.consulting.desc">Tư vấn về thủ tục xuất nhập khẩu, quy định pháp lý và chiến lược thương mại quốc tế</p>
-                    <a href="services.html#consulting" class="service-link" data-i18n="index.services.consulting.detail">Chi tiết →</a>
+                <div class="step-item reveal">
+                    <div class="step-icon">4</div>
+                    <h3>Testing</h3>
+                    <p>Real-device testing across screens, chipsets and Android versions.</p>
+                </div>
+                <div class="step-item reveal">
+                    <div class="step-icon">5</div>
+                    <h3>Launch &amp; Support</h3>
+                    <p>Shipping to Google Play, then iterating from real feedback.</p>
                 </div>
             </div>
         </div>
@@ -96,76 +136,43 @@
     <!-- Why Choose Us -->
     <section class="why-choose section bg-light">
         <div class="container">
-            <h2 class="section-title" data-i18n="index.whyChoose.title">Tại Sao Chọn Thanh Mich IMEX?</h2>
+            <h2 class="section-title">Why players stick around</h2>
             <div class="features-grid">
-                <div class="feature-item">
+                <div class="feature-item reveal">
                     <div class="feature-number">01</div>
-                    <h3 data-i18n="index.whyChoose.exp.title">Kinh Nghiệm Chuyên Sâu</h3>
-                    <p data-i18n="index.whyChoose.exp.desc">Hơn 5 năm kinh nghiệm trong ngành may mặc, hiểu rõ nhu cầu và xu hướng thị trường</p>
+                    <h3>Built for performance</h3>
+                    <p>Optimized rendering and input handling so gameplay stays smooth on mid-range devices, not just flagships.</p>
                 </div>
-                <div class="feature-item">
+                <div class="feature-item reveal">
                     <div class="feature-number">02</div>
-                    <h3 data-i18n="index.whyChoose.quality.title">Chất Lượng Đảm Bảo</h3>
-                    <p data-i18n="index.whyChoose.quality.desc">Sử dụng vải chất lượng cao, công nghệ may hiện đại, đảm bảo độ bền và thẩm mỹ</p>
+                    <h3>Faithful to the originals</h3>
+                    <p>Accurate emulation and controls that respect how these games were meant to be played.</p>
                 </div>
-                <div class="feature-item">
+                <div class="feature-item reveal">
                     <div class="feature-number">03</div>
-                    <h3 data-i18n="index.whyChoose.price.title">Giá Cả Cạnh Tranh</h3>
-                    <p data-i18n="index.whyChoose.price.desc">Giá thành hợp lý, báo giá minh bạch, không phát sinh chi phí ẩn</p>
+                    <h3>Privacy-respecting</h3>
+                    <p>We collect only what's needed to run the app well, laid out clearly in each app's Google Play listing.</p>
                 </div>
-                <div class="feature-item">
+                <div class="feature-item reveal">
                     <div class="feature-number">04</div>
-                    <h3 data-i18n="index.whyChoose.delivery.title">Giao Hàng Đúng Hẹn</h3>
-                    <p data-i18n="index.whyChoose.delivery.desc">Cam kết giao hàng đúng thời gian, đảm bảo tiến độ sản xuất cho khách hàng</p>
-                </div>
-                <div class="feature-item">
-                    <div class="feature-number">05</div>
-                    <h3 data-i18n="index.whyChoose.support.title">Hỗ Trợ Tận Tâm</h3>
-                    <p data-i18n="index.whyChoose.support.desc">Đội ngũ tư vấn chuyên nghiệp, hỗ trợ thiết kế và tư vấn mẫu mã miễn phí</p>
-                </div>
-                <div class="feature-item">
-                    <div class="feature-number">06</div>
-                    <h3 data-i18n="index.whyChoose.warranty.title">Chính Sách Bảo Hành</h3>
-                    <p data-i18n="index.whyChoose.warranty.desc">Bảo hành chất lượng sản phẩm, đổi trả nếu có lỗi từ nhà sản xuất</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <!-- Stats Section -->
-    <section class="stats section bg-dark">
-        <div class="container">
-            <div class="stats-grid">
-                <div class="stat-item">
-                    <div class="stat-number">100+</div>
-                    <div class="stat-label" data-i18n="index.stats.projects">Dự án hoàn thành</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">50+</div>
-                    <div class="stat-label" data-i18n="index.stats.clients">Đối tác tin tưởng</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">95%</div>
-                    <div class="stat-label" data-i18n="index.stats.satisfied">Khách hàng hài lòng</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">5+</div>
-                    <div class="stat-label" data-i18n="index.stats.experience">Năm kinh nghiệm</div>
+                    <h3>Actively maintained</h3>
+                    <p>Regular updates fix bugs, improve compatibility and respond to player feedback.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- CTA Section -->
-    <section class="cta section">
+    <section class="cta">
         <div class="container">
-            <div class="cta-content">
-                <h2 data-i18n="index.cta.title">Bắt Đầu Dự Án Đồng Phục Của Bạn Ngay Hôm Nay</h2>
-                <p data-i18n="index.cta.subtitle">Liên hệ với chúng tôi để nhận tư vấn miễn phí và báo giá chi tiết</p>
-                <div class="cta-buttons">
-                    <a href="contact.html" class="btn btn-large btn-primary" data-i18n="index.cta.contact">Liên hệ ngay</a>
-                    <a href="tel:0857281982" class="btn btn-large btn-secondary" data-i18n="index.cta.call">Gọi: 0857 281 982</a>
+            <div class="cta-band reveal">
+                <div class="cta-content">
+                    <h2>Ready to play?</h2>
+                    <p>Download Classic GBA Emulator: Old Play on Google Play and get back into your favorite handheld classics today.</p>
+                    <div class="cta-buttons">
+                        <a href="https://play.google.com/store/apps/details?id=com.oldplay.gba.emulator.retro.games" class="btn btn-large btn-accent" target="_blank" rel="noopener">Get on Google Play</a>
+                        <a href="contact.html" class="btn btn-large btn-secondary">Contact us</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -176,42 +183,31 @@
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-col">
-                    <h3 data-i18n="common.logo">THANH MICH IMEX</h3>
-                    <p data-i18n="common.footer.companyDesc">Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu và bán buôn nội thất chất lượng cao</p>
+                    <h3>Thanh Mich Studio</h3>
+                    <p>We design and build focused mobile apps for Android, starting with tools for retro gaming fans.</p>
                     <div class="footer-contact">
-                        <p>📍 <span data-i18n="common.footer.address">Thôn Tế Giáp, Xã Hát Môn, TP Hà Nội, Việt Nam</span></p>
-                        <p>📞 <a href="tel:0857281982" data-i18n="common.phone">0857 281 982</a></p>
-                        <p>📧 <a href="mailto:contact@thanhmichltd.store" data-i18n="common.footer.email">contact@thanhmichltd.store</a></p>
+                        <p>&#128205; Thon Te Giap, Hat Mon, Hanoi, Vietnam</p>
+                        <p>&#9993; <a href="mailto:contact@thanhmichltd.store">contact@thanhmichltd.store</a></p>
                     </div>
                 </div>
                 <div class="footer-col">
-                    <h4 data-i18n="common.footer.services">Dịch vụ</h4>
+                    <h4>Explore</h4>
                     <ul>
-                        <li><a href="services.html#import" data-i18n="common.footer.importExport">Xuất nhập khẩu</a></li>
-                        <li><a href="services.html#furniture" data-i18n="common.footer.furniture">Bán buôn nội thất</a></li>
-                        <li><a href="services.html#trading" data-i18n="common.footer.trading">Dịch vụ thương mại</a></li>
-                        <li><a href="services.html#consulting" data-i18n="common.footer.consulting">Tư vấn kinh doanh</a></li>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="apps.html">Apps</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
-                    <h4 data-i18n="common.footer.info">Thông tin</h4>
+                    <h4>Legal</h4>
                     <ul>
-                        <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4 data-i18n="common.footer.support">Hỗ trợ</h4>
-                    <ul>
-                        <li><a href="policies.html" data-i18n="common.footer.warrantyPolicy">Chính sách bảo hành</a></li>
-                        <li><a href="policies.html#delivery" data-i18n="common.footer.deliveryPolicy">Chính sách giao hàng</a></li>
-                        <li><a href="policies.html#return" data-i18n="common.footer.returnPolicy">Chính sách đổi trả</a></li>
-                        <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
-                        <li><a href="company-info.html" data-i18n="common.footer.companyInfo">Thông tin doanh nghiệp</a></li>
+                        <li><a href="company-info.html">Company Information</a></li>
                     </ul>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; <span data-i18n="common.footer.copyright">2024 Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch. MST: 0108850813</span></p>
+                <p>&copy; 2026 Thanh Mich Import Export and Trading Production Company Limited (Thanh Mich Studio). Tax ID: 0108850813.</p>
             </div>
         </div>
     </footer>
@@ -219,4 +215,3 @@
     <script src="js/main.js"></script>
 </body>
 </html>
-

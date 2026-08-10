@@ -1,0 +1,15 @@
+<svg width="240" height="70" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple Import-Export Icon (Arrows) -->
+  <g transform="translate(25, 20)">
+    <!-- Left arrow (import) -->
+    <path d="M 0 15 L 12 15 L 8 10 M 12 15 L 8 20" stroke="#1e3a5f" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Right arrow (export) -->
+    <path d="M 20 15 L 8 15 L 12 10 M 8 15 L 12 20" stroke="#f39c12" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Center circle -->
+    <circle cx="10" cy="15" r="3" fill="#1e3a5f"/>
+  </g>
+  
+  <!-- Company Name -->
+  <text x="60" y="30" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a5f">THANH MICH</text>
+  <text x="60" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#666666">IMEX CO., LTD</text>
+</svg>
