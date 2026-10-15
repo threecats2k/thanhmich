@@ -2908,3 +2908,35 @@ zetaglobal.net, 856, RESELLER
 zmaticoo.com, 5135199, RESELLER
 zmaticoo.com, 5135375, RESELLER
 zmaticoo.com, 5135535, RESELLER
+#update 15/10/2026
+taurusx.com, 70097, RESELLER
+zetaglobal.net, 525, RESELLER
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+rubiconproject.com, 24084, RESELLER, 0bfd66d529a55807
+unity.com, 3372108, DIRECT, 96cabb5fbdde37a7
+bluexad.ai, 1996418805747683328, RESELLER
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+brightmountainmedia.com, 2686958, RESELLER
+odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
+smartclip.net, 14679, RESELLER
+bigo.sg, adidz3dyfp, RESELLER
+openx.com, 563905670, RESELLER, 6a698e2ec38604c6
+vidoomy.com, 8953515, RESELLER
+smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
+insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
+triplelift.com, 14705, RESELLER, 6c33edb13117fd86
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
+triplelift.com, 14705-EB, RESELLER
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+connekt.ai, 5585919044, RESELLER
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+netmarvel.com, 1011828, RESELLER, ca3509163a633862
+dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
+adwmg.com, 159512, RESELLER, c9688a22012618e7
